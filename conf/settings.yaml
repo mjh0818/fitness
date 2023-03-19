@@ -1,0 +1,13 @@
+server:
+  port: 8088
+
+datasource:
+  driverName: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: fitness
+  username: root
+  password: mjh111
+
+jwt:
+  JwtKey: fitness-love
